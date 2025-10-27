@@ -40,4 +40,18 @@ The datsaet used was provided by **[Maven Analytics](https://mavenanalytics.io/)
 - Critic scores tend to be more consistent, while audience ratings show wider variation.
 - Strong correlation exists between critic consensus and total number of reviews.
 
+## 🙏 Acknowledgements
+
+A special thanks to **Alice Zhao** for her guidance through the **[Data Scince in Python: Data Prep & EDA](https://app.mavenanalytics.io/courses?search=data+prep)**.
+
+
+## ❤️  Support
+
+Contributions, issues, and suggestions are welcome!
+
+Give a ⭐️ if you like this project!
+
+
+
+
 
