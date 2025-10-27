@@ -42,7 +42,7 @@ The datsaet used was provided by **[Maven Analytics](https://mavenanalytics.io/)
 
 ## 🙏 Acknowledgements
 
-A special thanks to **Alice Zhao** for her guidance through the **[Data Scince in Python: Data Prep & EDA](https://app.mavenanalytics.io/courses?search=data+prep)**.
+A special thanks to **Alice Zhao** for her guidance through Maven Analytics' course: **[Data Scince in Python: Data Prep & EDA](https://app.mavenanalytics.io/courses?search=data+prep)**.
 
 
 ## ❤️  Support
