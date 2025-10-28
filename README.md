@@ -1,9 +1,10 @@
 <h1 align="center">  Rotten Tomatoes Movie Review EDA </h1>
 
-## 📘 Project Description
-
 This mid-course data analytics project focuses on understanding how critics and audiences rate movies differently on Rotten Tomatoes.
 The analysis simulates a real-world data request from a podcast host curious about trends in movie reviews.
+
+
+## 📘 Project Description
 
 Through structured data exploration, visualization, and statistical insight generation, the project reveals:
 
